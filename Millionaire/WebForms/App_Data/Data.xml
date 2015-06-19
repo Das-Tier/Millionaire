@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<questions>
+  <question id="1">
+    <text>Столиця Німеччини - це:</text>
+    <a>Бонн</a>
+    <b>Мюнхен</b>
+    <c>Берлін</c>
+    <d>Гамбург</d>
+    <answer>c</answer>
+  </question>
+  
+  <question id="2">
+    <text>Скільки біт містить тип Long в C#</text>
+    <a>16</a>
+    <b>32</b>
+    <c>64</c>
+    <d>128</d>
+    <answer>c</answer>
+  </question>
+
+  <question id="3">
+    <text>Країна-організатор Олімпіади в 2000 році</text>
+    <a>Україна</a>
+    <b>США</b>
+    <c>Італія</c>
+    <d>Австралія</d>
+    <answer>c</answer>
+  </question>
+</questions>

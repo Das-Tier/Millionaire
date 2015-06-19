@@ -1,0 +1,6 @@
+c:\users\vitaly\documents\Projects\Millionaire\WebForms\bin\WebForms.dll.config
+c:\users\vitaly\documents\Projects\Millionaire\WebForms\bin\WebForms.dll
+c:\users\vitaly\documents\Projects\Millionaire\WebForms\bin\WebForms.pdb
+c:\users\vitaly\documents\Projects\Millionaire\WebForms\obj\Debug\WebForms.csprojResolveAssemblyReference.cache
+c:\users\vitaly\documents\Projects\Millionaire\WebForms\obj\Debug\WebForms.dll
+c:\users\vitaly\documents\Projects\Millionaire\WebForms\obj\Debug\WebForms.pdb
